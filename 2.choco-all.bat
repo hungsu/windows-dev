@@ -7,7 +7,7 @@ choco install vscode
 choco install fiddler
 choco install figma
 choco install googlechrome
-choco install quicklook
+choco install winquicklook
 choco install sharex
 choco install slack
 choco install steam
