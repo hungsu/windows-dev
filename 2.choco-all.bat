@@ -1,3 +1,4 @@
+choco install viber
 choco install airexplorer
 choco install firefox
 choco install discord
