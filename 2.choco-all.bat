@@ -7,8 +7,10 @@ choco install vscode
 choco install fiddler
 choco install figma
 choco install googlechrome
-choco install treesizefree
+choco install quicklook
+choco install sharex
 choco install slack
 choco install steam
+choco install treesizefree
 choco install zoom
 choco install 7zip
