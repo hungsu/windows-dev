@@ -1,9 +1,10 @@
+choco install airexplorer
 choco install firefox
 choco install discord
 choco install bitwarden
 choco install vscode
-choco install figma
 choco install fiddler
+choco install figma
 choco install googlechrome
 choco install treesizefree
 choco install slack
