@@ -7,6 +7,7 @@ choco install vscode
 choco install fiddler
 choco install figma
 choco install googlechrome
+choco install mkvtoolnix
 choco install winquicklook
 choco install sharex
 choco install slack
