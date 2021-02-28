@@ -15,3 +15,6 @@ choco install steam
 choco install treesizefree
 choco install zoom
 choco install 7zip
+
+:: Groove music which comes with Windows is not very good.
+choco install aimp
