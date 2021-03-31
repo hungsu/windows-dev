@@ -13,6 +13,7 @@ choco install obsidian
 choco install sharex
 choco install slack
 choco install steam
+choco install synctrayzor
 choco install treesizefree
 choco install zoom
 choco install 7zip
