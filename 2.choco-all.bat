@@ -9,6 +9,7 @@ choco install figma
 choco install googlechrome
 choco install mkvtoolnix
 choco install winquicklook
+choco install obsidian
 choco install sharex
 choco install slack
 choco install steam
