@@ -9,6 +9,10 @@ choco install figma
 choco install googlechrome
 choco install mkvtoolnix
 choco install winquicklook
+
+:: For when I might want to use my phone as a webcam
+choco install obs-studio
+
 choco install obsidian
 choco install sharex
 choco install slack
