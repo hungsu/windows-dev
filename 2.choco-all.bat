@@ -10,6 +10,8 @@ choco install googlechrome
 choco install mkvtoolnix
 choco install winquicklook
 
+choco install potplayer
+
 :: For when I might want to use my phone as a webcam
 choco install obs-studio
 
