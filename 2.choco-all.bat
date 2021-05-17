@@ -10,8 +10,6 @@ choco install googlechrome
 choco install mkvtoolnix
 choco install winquicklook
 
-choco install potplayer
-
 :: For when I might want to use my phone as a webcam
 choco install obs-studio
 
@@ -24,5 +22,12 @@ choco install treesizefree
 choco install zoom
 choco install 7zip
 
+## REPLACEMENTS FOR DEFAULT APPS
+
 :: Groove music which comes with Windows is not very good.
 choco install aimp
+
+:: Windows start menu can show an initial result, then replace it as I try to select it
+choco install launchy
+
+choco install potplayer
