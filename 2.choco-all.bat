@@ -22,7 +22,7 @@ choco install treesizefree
 choco install zoom
 choco install 7zip
 
-## REPLACEMENTS FOR DEFAULT APPS
+:: REPLACEMENTS FOR DEFAULT APPS
 
 :: Groove music which comes with Windows is not very good.
 choco install aimp
