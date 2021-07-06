@@ -31,3 +31,6 @@ choco install aimp
 choco install launchy
 
 choco install potplayer
+
+:: For SVG previews in Explorer
+choco install powertoys
